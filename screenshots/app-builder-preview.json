@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Eng Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 3438,
+      "bodyTextHash": "12a6844bb0eea87effcb58af25d31457b544376571665f7ba97010ab6ece7c60",
+      "bodyTextPrefix": "Eng Lab Report Method Wave 2 Register COMMUNITY LEADERS · 30 SEP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Eng Lab",
+      "hasCanvas": false,
+      "bodyTextLen": 3417,
+      "bodyTextHash": "404d9de638fd824330624e026e60770f28e303fe8b248187980f58652856c3b9",
+      "bodyTextPrefix": "Eng Lab Register COMMUNITY LEADERS · 30 SEPTEMBER 2026 Speaking ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
